@@ -1,2 +1,4 @@
-limit.upper=10
-limit.lower=0
+limit:
+  upper: 10
+limit:
+  lower: 0
